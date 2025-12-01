@@ -42,9 +42,15 @@ The COVID-19 pandemic fundamentally altered patterns of public transit use, expo
 
 ## Data Sources
 
-[Academic and Professional Experience](experience.html)
+[MTA Daily Ridership Data: 2020-2025](https://data.ny.gov/Transportation/MTA-Daily-Ridership-Data-2020-2025/vxuj-8kew/about_data)
 
-A closer look at the 
+[Pre-COVID MTA Monthly Ridership Data](https://data.ny.gov/Transportation/MTA-Monthly-Ridership-Traffic-Data-Beginning-Janua/xfre-bxip/about_data)
+
+[COVID-19 Case Data for NYC](https://data.cityofnewyork.us/Health/COVID-19-Daily-Counts-of-Cases-Hospitalizations-an/rc75-m7u3/about_data)
+
+[NOAA Weather Data-NYC Central Park](https://www.ncei.noaa.gov/access/search/data-search/daily-summaries?stations=USW00094728)
+
+A closer look at the
 [MTA Map](https://www.mta.info/map/5256)
 
 

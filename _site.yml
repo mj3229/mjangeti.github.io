@@ -17,4 +17,4 @@ navbar:
       href: https://github.com/mj3229/mjangeti.github.io
 output:
   html_document:
-    theme: sandstone
+    theme: flatly
